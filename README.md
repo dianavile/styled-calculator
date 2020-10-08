@@ -1,6 +1,8 @@
 # JS-Calculator
 Create a calculator with HTML, CSS, JavaScript
 
+![Printscreen Calculator](https://github.com/dianavile/styled-calculator/blob/main/Calculator.PNG)
+
 ## METHOD
 - Iteration 1: Create HTML with tags.
 - Iteration 2: Style the Calculator with CSS.
